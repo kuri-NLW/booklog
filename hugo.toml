@@ -1,0 +1,7 @@
+baseURL = "https://kuri-nlw.github.io/booklog/"
+languageCode = "ja"
+title = "読書と道具の記録（仮）"
+hasCJKLanguage = true
+
+[params]
+  description = "SF・ミステリー・ホラーの読み順ガイドと既読レビュー、Apple製品の整理メモ。"
